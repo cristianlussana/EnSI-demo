@@ -1,0 +1,5 @@
+NOTE: data are not available for 2D simulations
+
+./drive_em_all.sh -e 01 -a 1 -s 1
+
+./drive_em_all.sh -e 02 -a 3 -s 6 -x
